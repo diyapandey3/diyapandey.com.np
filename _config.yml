@@ -10,7 +10,6 @@ locale                   : "en-US"
 title                    : "Diya Pandey"
 title_separator          : "-"
 name                     : &name "Diya Pandey"
-description              : &description "I am a cool kid"
 url                      : https://diyapandey.com.np # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "diya-pandey/diyapandey.com.np"
@@ -82,7 +81,7 @@ analytics:
 author:
   name             : "Diya Pandey"
   avatar           : "image.jpg"
-  bio              : "What shall I put here?"
+  bio              : "Hi! and Namaste!"
   location         : "Manigram, Butwal"
   email            :  "diya.intqxq@gmail.com"
   uri              :
